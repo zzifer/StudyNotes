@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "95459fed6f748d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310bfb59078e3fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8f2e7d9d8740af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "computer/git/attachments/Pasted image 20230809224046.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68eb23d7c8a57a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "10beda1148cf9137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e98df0a74689e129",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6588c8fae22c1890",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "baeefb9703c9c12d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7e20b8aa47fa457",
+    "type": "split",
+    "children": [
+      {
+        "id": "e903dac32a7c2e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa27a37c94a92ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computer/git/attachments/Pasted image 20230809224046.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a602b04c1f9cf2ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "computer/git/attachments/Pasted image 20230809224046.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3624121fb945c1e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa6e619743cae5dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "computer/git/attachments/Pasted image 20230809224046.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ed8f2e7d9d8740af",
+  "lastOpenFiles": [
+    "computer/git/attachments/Pasted image 20230809224020.png",
+    "computer/git/git.md",
+    "computer/git/attachments/Pasted image 20230809224046.png",
+    "computer/git/attachments",
+    "computer/git",
+    "math",
+    "english",
+    "computer"
+  ]
+}

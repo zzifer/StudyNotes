@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer/git/git.md",
+                "file": "english/english.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer/git/git.md",
+                "file": "english/english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer/git/git.md",
+                "file": "english/english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer/git/git.md"
+                "file": "english/english.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed8f2e7d9d8740af",
+  "active": "e98df0a74689e129",
   "lastOpenFiles": [
+    "computer/git/git.md",
+    "english/english.md",
     "computer/git/attachments/Pasted image 20230809225342.png",
     "computer/git/attachments/Pasted image 20230809224020.png",
     "computer/git/attachments/Pasted image 20230809224046.png",
-    "computer/git/git.md",
     "computer/git/attachments",
     "computer/git",
     "math",

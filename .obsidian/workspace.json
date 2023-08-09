@@ -11,9 +11,11 @@
             "id": "ed8f2e7d9d8740af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "computer/git/attachments/Pasted image 20230809224046.png"
+                "file": "computer/git/git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer/git/attachments/Pasted image 20230809224046.png",
+                "file": "computer/git/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer/git/attachments/Pasted image 20230809224046.png",
+                "file": "computer/git/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer/git/attachments/Pasted image 20230809224046.png"
+                "file": "computer/git/git.md"
               }
             }
           }
@@ -146,9 +148,10 @@
   },
   "active": "ed8f2e7d9d8740af",
   "lastOpenFiles": [
+    "computer/git/attachments/Pasted image 20230809225342.png",
     "computer/git/attachments/Pasted image 20230809224020.png",
-    "computer/git/git.md",
     "computer/git/attachments/Pasted image 20230809224046.png",
+    "computer/git/git.md",
     "computer/git/attachments",
     "computer/git",
     "math",

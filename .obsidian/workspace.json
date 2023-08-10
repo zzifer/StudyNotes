@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer/git/git.md",
-                "mode": "source",
+                "file": "computer/git/尚硅谷Git入门到精通全套教程.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer/git/git.md",
+                "file": "computer/git/尚硅谷Git入门到精通全套教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer/git/git.md",
+                "file": "computer/git/尚硅谷Git入门到精通全套教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer/git/git.md"
+                "file": "computer/git/尚硅谷Git入门到精通全套教程.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,13 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e98df0a74689e129",
+  "active": "ed8f2e7d9d8740af",
   "lastOpenFiles": [
-    "computer/git/attachments/Pasted image 20230809224020.png",
     "computer/git/git.md",
+    "computer/git/尚硅谷Git入门到精通全套教程.md",
+    "computer/git/attachments/Pasted image 20230209212654.png",
+    "computer/git/attachments/Pasted image 20230209212344.png",
+    "computer/git/attachments/Pasted image 20230209212323.png",
+    "computer/git/attachments/Pasted image 20230209212126.png",
+    "computer/git/attachments/Pasted image 20230209212020.png",
+    "computer/git/attachments/Pasted image 20230209212016.png",
+    "computer/git/attachments/Pasted image 20230209211903.png",
+    "computer/git/attachments/Pasted image 20230209211405.png",
+    "computer/git/attachments/Pasted image 20230209211001.png",
+    "computer/git/attachments/Pasted image 20230209210700.png",
     "english/english.md",
-    "computer/git/attachments/Pasted image 20230809225342.png",
-    "computer/git/attachments/Pasted image 20230809224046.png",
     "computer/git/attachments",
     "computer/git",
     "math",

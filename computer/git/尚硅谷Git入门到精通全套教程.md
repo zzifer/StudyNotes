@@ -1,6 +1,6 @@
 # 链接
 
-[# 尚硅谷新版Git快速入门](https://www.bilibili.com/video/BV1wm4y1z7Dg?p=1)
+[尚硅谷新版Git快速入门](https://www.bilibili.com/video/BV1wm4y1z7Dg?p=1)
 019-021
 029 ssh
 030 gitlab
@@ -10,19 +10,14 @@
 038-040 gitee
 041-044 gitlab
 
-# Git介绍
-## Git工作机制
+
+# Git工作机制
 ![](attachments/Pasted%20image%2020230209183632.png)
 >一旦提交到本地库就会生成历史版本，代码就删不掉了，除非删掉本地库
 
-## 代码托管中心
-代码托管中心是基于网络服务器的远程代码仓库，一般我们简单称为远程库
-1）局域网：GitLab
-2）互联网：GitHub、Gitee
 
 
-# Git命令
-## 设置用户签名
+# 设置用户签名
 ```git
 # 不加--global的话就只对当前仓库配置
 git config --global user.name 用户名
@@ -32,19 +27,19 @@ git config --global user.email 邮箱
 ```
 >说明：**签名的作用是区分不同操作者身份**。用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的。 **Git 首次安装必须设置一下用户签名，否则无法提交代码**。
 
-## 初始化本地库
+# 初始化本地库
 ```git
 # 每次新建一个本地库就要初始化一下
 git init
 ```
 
-## 查看本地库状态
+# 查看本地库状态
 ```git
 # 查看暂存区状态 红色表示文件还未添加到暂存区
 git status
 ```
 
-## 文件误删除
+# 文件误删除
 ```
 # 从存储区中恢复工作区中删除的文件，
 # 如果删除的的文件也已经commit则无法恢复
@@ -60,7 +55,7 @@ git revert 版本号
 ```
 
 
-## 添加/删除暂存区
+# 添加/删除暂存区
 ```git
 git add 文件名
 
@@ -75,7 +70,7 @@ git add .
 git rm --cached 文件名
 ```
 
-## 提交本地库
+# 提交本地库
 ```git
 git commit -m "日志信息" 文件名
 
@@ -86,7 +81,7 @@ git tag 标签 版本号
 git tag -d 标签
 ```
 
-## 查看版本信息
+# 查看版本信息
 ```git
 # 查看版本信息
 git reflog
@@ -95,13 +90,12 @@ git reflog
 git log
 ```
 
-## 版本穿梭
+# 版本穿梭
 ```git
 git reset --hard 版本号
 ```
 
-# Git分支
-## 分支的操作
+# 分支的操作
 ```git
 # 创建分支
 git branch 分支名
@@ -125,7 +119,7 @@ git branch -d 分支名
 git merge 指定分支
 ```
 
-## 合并冲突
+# 合并冲突
 ```git
 
 # 下面是要合并的txt文件，进入要合并的文件中，修改文件

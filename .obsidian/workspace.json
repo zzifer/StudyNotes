@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer/git/尚硅谷Git入门到精通全套教程.md",
+                "file": "computer/git/Git笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer/git/尚硅谷Git入门到精通全套教程.md",
+                "file": "computer/git/Git笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer/git/尚硅谷Git入门到精通全套教程.md",
+                "file": "computer/git/Git笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer/git/尚硅谷Git入门到精通全套教程.md"
+                "file": "computer/git/Git笔记.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "ed8f2e7d9d8740af",
   "lastOpenFiles": [
     "computer/git/git.md",
-    "computer/git/尚硅谷Git入门到精通全套教程.md",
+    "computer/git/Git笔记.md",
     "computer/git/attachments/Pasted image 20230209212654.png",
     "computer/git/attachments/Pasted image 20230209212344.png",
     "computer/git/attachments/Pasted image 20230209212323.png",
